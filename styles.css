@@ -1,3 +1,12 @@
 h1 {
   color: pink;
 }
+
+body{
+  background-color: blue;
+}
+
+p{
+  text-align: center;
+  padding: 15px;
+}
