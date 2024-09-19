@@ -15,14 +15,9 @@
 }
 
 .topnav a:hover{
-<<<<<<< HEAD
   background-color:#ddd;
-  color:black
-
-=======
   background-color:antiquewhite;
-  color:white;
->>>>>>> 9bd410c91df12b32411c9aa4d5489c9411df0657
+  color:black;
 }
 
 .topnav a.active {
