@@ -1,11 +1,11 @@
 .topnav {
-  background-color:rgb(198, 190, 117);
+  background-color:gray;
   overflow: hidden;
 }
 
 .topnav a {
   float: left;
-  color:firebrick;
+  color:whitesmoke;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -15,19 +15,24 @@
 }
 
 .topnav a:hover{
+<<<<<<< HEAD
   background-color:#ddd;
   color:black
 
+=======
+  background-color:antiquewhite;
+  color:white;
+>>>>>>> 9bd410c91df12b32411c9aa4d5489c9411df0657
 }
 
 .topnav a.active {
-  color:beige
+  color:beige;
   
 }
 
 
 body {
-  background-color:khaki;
+  background-color:black;
 }
 
 
@@ -35,7 +40,7 @@ body {
 header {
   font-size:50px;
   text-align:center;
-  color:firebrick;
+  color:whitesmoke;
 }
 
 
@@ -43,7 +48,13 @@ header {
 h1 { 
   font-size:40px;
   text-align:center;
-  color:firebrick;
+  color:whitesmoke;
+}
+
+p {
+  font-size:20px;
+  text-align:center;
+  color:whitesmoke;
 }
 
 p{
